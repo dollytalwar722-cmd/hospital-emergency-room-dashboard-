@@ -48,6 +48,12 @@ Excel Formulas
 Dashboard Design & Formatting
 
 <img width="1256" height="613" alt="{B5ED8993-947B-45F7-BD99-ACE090CC4AB6}" src="https://github.com/user-attachments/assets/2fc41661-33f2-4c53-8e24-151288d8d6ab" />
+
+
+Pivot report 
+
+<img width="1345" height="607" alt="{35EC6625-E8B8-47BE-B3DA-9CFA048858EA}" src="https://github.com/user-attachments/assets/ba7b949a-e97e-49c8-832c-c40eacfe9556" />
+
 Key Insights
 
 
